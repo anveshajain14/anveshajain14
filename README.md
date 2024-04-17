@@ -10,7 +10,7 @@
 
 ###
 
-<h5 align="left">✨ Into the world of 1/0 from 2022<br>📚 I'm currently learning Data Science and Machine Learning<br>🎶 Looking for goof company for Coding<br>😶‍🌫️ stressing out of colons;<br>🎯 Goals: still finding <br>🎲 chilling out withs Bugs</h5>
+<h5 align="left">✨ Into the world of 1/0 from 2022<br>📚 I'm currently learning Data Science and Machine Learning<br>🎶 Looking for good company for Coding<br>😶‍🌫️ stressing out of colons;<br>🎯 Goals: still finding <br>🎲 chilling out with Bugs</h5>
 
 ###
 
